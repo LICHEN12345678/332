@@ -5,7 +5,7 @@
 # 公众号appSecret
 "app_secret": "28e571bdb5cd7df54d63a7b124ece7a7",
 # 模板消息id
-"template_id": "lzcFFEnxRVbShYIRq9qEIxMPlOmdrujny2zjgLLYOkw",
+"template_id": "-teKEP0jbnVNHVPZpHwDA-loKp0BJwZtxCAU8CmouNA",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oFk386r0isro7O9f0CSS_d__aHNo","oFk386geXeKRle0YaEQ3HNW-zkAc","oFk386r9m34BfFKwj08CcrRafIBU","oFk386umu0crvZkLLJT7hM3Ng3bw"],
 
@@ -20,7 +20,7 @@
 "birthday1": {"name": "小梁", "birthday": "2001-08-31"},
 # 生日2
 "birthday2": {"name": "小赵", "birthday": "2002-01-15"},
-"birthday2": {"name": "小李", "birthday": "2002-06-09"},
+"birthday3": {"name": "小李", "birthday": "2002-06-09"},
 # 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
